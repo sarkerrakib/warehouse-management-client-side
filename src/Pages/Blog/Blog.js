@@ -42,7 +42,9 @@ const Blog = () => {
                 {/* second question */}
 
                 <div className="border border-secondary p-3 rounded">
-                    
+                    <div className='fw-bolder fs-4'>
+                        2. When should you use nodejs and when should you use mongodb <br />
+                    </div>
                     <div className="fs-5">
                         Ans:- <br />
                         <b>Node JS:</b><br />
