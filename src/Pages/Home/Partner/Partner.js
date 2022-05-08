@@ -4,7 +4,7 @@ import './Partner.css';
 const Partner = () => {
     return (
         <div className=''>
-            
+            <h2 className='partner text-center'>PARTNERS</h2>
             <div className='container partners d-flex justify-content-evenly'>
                 <div ><img src="https://cdn.shopify.com/s/files/1/0272/1493/8165/files/Brands_1_a626543a-33da-47fe-a606-cdc9a4e1c73f_160x160@2x.png?v=1602140173" alt="" /></div>
                 <div ><img src="https://cdn.shopify.com/s/files/1/0272/1493/8165/files/Brands_2_ec544c61-becf-404d-ade9-cf17e2ffea2e_160x160@2x.png?v=1602140183" alt="" /></div>
