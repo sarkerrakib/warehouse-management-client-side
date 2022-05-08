@@ -24,7 +24,7 @@ const ManageItems = () => {
     return (
         <div>
             <div className='w-50 mx-auto'>
-                
+                <h2>Manage your Items..</h2>
                 {
                     services.map(service => <div key={service._id}>
                         <h5>{service.name} <button onClick={() => handleDelete(service._id)}>X</button> </h5>
