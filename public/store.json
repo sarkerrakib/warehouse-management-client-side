@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "MSI GE76 Raider",
+        "price": "1300",
+        "supplier": "Robert Garrison",
+        "description": "The MSI GE76 Raider 11UH Gaming Laptop equipped with Intel Core i9-11980HK Processor (24M Cache, 3.30 GHz up to 5.00 GHz) and powered by NVIDIA GeForce RTX 3080 Laptop GPU 16GB GDDR6 Graphics. The switchable graphics technology offers powerful gaming performance and efficiency. ",
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/ge76-raider-11uh/ge76-raider-11uh-01-500x500.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Oneplus Cyberpunk",
+        "price": "800",
+        "supplier": "Issac Maxwell",
+        "description": "Oneplus Watch Cyberpunk 2077 Limited Edition featured with 1.39-inch AMOLED display with a 454 x 454 resolution, 5ATM, and IP68 water and dust resistance., Material: sapphire glass cover + 316L stainless steel. This Smartwatch has more than 110 workout modes with a heart rate monitor,",
+        "img": "https://www.startech.com.bd/image/cache/catalog/smart-watch/oneplus/watch-cyberpunk-2077-limited-edition/watch-cyberpunk-2077-limited-edition-01-500x500.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Asus Zephyrus M16",
+        "price": "1500",
+        "supplier": "Robert Garrison",
+        "description": "Asus ROG Zephyrus M16 GU603HR laptop features Intel Core i9-11900H Processor (24M Cache, 2.50 GHz up to 4.80 GHz) and 32GB DDR4 3200MHz RAM. It has a 1TB PCIe G4 SSD. The ROG Zephyrus M16 has been integrated with NVIDIA GeForce RTX 3070 8GB Graphics with ROG Boost up to 1390MHz.",
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/rog-zephyrus-m16/rog-zephyrus-m16-01-500x500.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Razer Blade 15",
+        "price": "1700",
+        "supplier": "Robert Garrison",
+        "description": "Razer Blade 15 Advanced Model Laptop powered by Intel Core i9-11900H Processor (24M Cache, 2.50 GHz up to 4.80 GHz) with NVIDIA GeForce Graphics. This Razer Gaming Laptop featured with up to NVIDIA GeForce RTX 3080 16GB Graphics , 1TB SSD (M.2 NVMe PCIe 4.0 x4) + Open M.2 PCIe 4.0.",
+        "img": "https://www.startech.com.bd/image/cache/catalog/laptop/razer/blade-15-advanced-model/blade-15-advanced-model-01-500x500.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mobvoi Pro 3",
+        "price": "700",
+        "supplier": "Issac Maxwell",
+        "description": "The Mobvoi TicWatch Pro 3 Ultra GPS Smartwatch comes with a 1.4 454x454 326ppi Full Color Always On Display AMOLED + FSTN Display. It is protected by a Corning Gorilla Glass. The 1.4 large display features damage-resistant Corning Gorilla Glass, which delivers enhanced sunlight.",
+        "img": "https://www.startech.com.bd/image/cache/catalog/smart-watch/mobvoi/ticwatch-pro-3-ultra-gps/ticwatch-pro-3-ultra-gps-01-500x500.jpg"
+    },
+    {
+        "id": 6,
+        "name": "DJI Mavic Air 2",
+        "price": "1800",
+        "supplier": "Jeffery Kennan",
+        "description": "Master creative aerial shots thanks to effortlessly smooth 4K/60fps video. The D-Cinelike flat color profile retains more information for post-processing. The HEVC (H.265) video codec records more image information, uses less storage, and preserves the dynamic range and detail of your footage.",
+        "img": "https://www.startech.com.bd/image/cache/catalog/gadget/drone/dji/mavic-air-2/mavic-air-2-500x500.jpg"
+    },
+    {
+        "id": 7,
+        "name": "DJI Phantom 4 Pro",
+        "price": "2600",
+        "supplier": "Jeffery Kennan",
+        "description": "Featuring a 1-inch CMOS sensor that can shoot 4K/60fps videos and 20MP photos, the Phantom 4 Pro V2.0 grants filmmakers absolute creative freedom. The OcuSync 2.0 HD transmission system ensures stable connectivity and reliability, five directions of obstacle sensing ensures additional safety.",
+        "img": "https://www.startech.com.bd/image/cache/catalog/gadget/drone/dji/phantom-4-pro-v2/phantom-4-pro-v2-500x500.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Xiaomi Haylou RS4",
+        "price": "400",
+        "supplier": "Issac Maxwell",
+        "description": "Xiaomi Haylou RS4 LS12 featured with 1.78 (368 x 448) AMOLED HD display, 12 workout modes, Alipay Offline Payment, IP68 waterproof, SpO2 tracking, 10 days battery life, Sleep monitoring, Heart rate monitoring. This Haylou RS4 is specially designed for sports. Easily check information.",
+        "img": "https://www.startech.com.bd/image/cache/catalog/smart-watch/xiaomi/haylou-rs4-ls12/haylou-rs4-ls12-02-500x500.jpg"
+    },
+    {
+        "id": 9,
+        "name": "DJI Redefined FPV",
+        "price": "3650",
+        "supplier": "Jeffery Kennan",
+        "description": "he new and improved DJI FPV Drones allow you to rip through the sky with immense speed, power and lets you enjoy it with full control. The FPV Drone lets you fly in incomprehensible ways. Fly like Superman and experience the thrill first hand and capture all you see directly through with you.",
+        "img": "https://www.startech.com.bd/image/cache/catalog/gadget/drone/dji/fpv/fpv-5-500x500.jpg"
+    }
+]

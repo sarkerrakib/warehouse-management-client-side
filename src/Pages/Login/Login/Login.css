@@ -1,0 +1,18 @@
+.log{
+    /* background-image: url(https://cdn.pixabay.com/photo/2020/02/17/18/12/office-4857268_960_720.jpg);
+    background-repeat: no-repeat;
+    opacity: 0.8; */
+    background: linear-gradient(to bottom, #000428, #043c6d);
+    margin-top: -8px;
+    padding-top: 25px;
+    padding-bottom: 52px;
+}
+.resets{
+    color: #f8a14ff7;
+}
+
+.logButton{
+    background: linear-gradient(to bottom, #f86b4f, #f8a14ff7);
+    color: white;
+    font-weight: 500;
+}
